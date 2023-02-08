@@ -1,0 +1,42 @@
+.card-bg-con {
+  height: 100%;
+  width: 100%;
+}
+.list-card-item {
+  list-style-type: none;
+  height: 180px;
+  width: 140px;
+  border-radius: 10px;
+  background-color: #f8f8ff;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.avatar {
+  height: 40px;
+  width: 40px;
+  align-self: center;
+}
+.name {
+  align-self: center;
+  color: #e73959;
+  font-size: 12px;
+  font-family: 'Roboto';
+}
+.count-con {
+  display: flex;
+  align-items: center;
+  font-size: 10px;
+  margin-left: 10px;
+  width: 70%;
+  justify-content: space-around;
+}
+.icon-image {
+  height: 10px;
+  width: 10px;
+}
+.failure-image {
+  height: 30%;
+  width: 30%;
+}

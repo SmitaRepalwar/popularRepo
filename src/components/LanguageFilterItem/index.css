@@ -1,0 +1,19 @@
+.tab-item {
+  list-style-type: none;
+  height: 30px;
+  width: 90px;
+}
+.language-btn {
+  background-color: transparent;
+  outline: none;
+  border-width: 0px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.selected-tab-item {
+  color: #0284c7;
+  border: 1px solid #0284c7;
+  border-radius: 10px;
+  height: 30px;
+  width: 90px;
+}

@@ -1,0 +1,23 @@
+.tab-list {
+  height: 20px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.git-hub-con {
+  height: 80%;
+  width: 60%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.bg-con {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+h1 {
+  font-family: 'Lobster';
+}
